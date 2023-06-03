@@ -1,0 +1,18 @@
+{
+  "name": "grp-global-style",
+  "version": "1.0.0",
+  "description": "Global styles for MA Green Rainbow party",
+  "main": "global.css",
+  "style": "global.css",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "global.css"
+  ],
+  "scripts": {
+  },
+  "repository": "green-rainbow-org/grp-global-style",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
